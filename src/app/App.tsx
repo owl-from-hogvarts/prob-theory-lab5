@@ -139,6 +139,7 @@ export function App() {
           flexWrap: "wrap",
           maxWidth: "23rem",
           textAlign: "center",
+          justifyContent: "space-evenly",
           gap: "3rem",
         }}
       >
